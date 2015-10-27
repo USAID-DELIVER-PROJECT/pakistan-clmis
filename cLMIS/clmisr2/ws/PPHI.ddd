@@ -1,0 +1,15 @@
+<?php
+include_once("DBCon.php");          // Include Database Connection File
+include('auth.php');
+
+
+$query="SELECT sysuser_tab.sysusr_pwd,sysuser_tab.usrlogin_id
+		FROM sysuser_tab WHERE sysuser_tab.stkid = 9 order by sysuser_tab.usrlogin_id";
+$rs = mysql_query($query) or die(print mysql_error());
+$i=1;
+while($r = mysql_fetch_array($rs)) 
+{
+	print $i++."&nbsp;,&nbsp;".$r[1]."&nbsp;,&nbsp;".base64_decode($r[0])."<br>"; 
+}
+?>
+

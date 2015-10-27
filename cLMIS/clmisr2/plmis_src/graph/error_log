@@ -1,0 +1,154 @@
+[18-Feb-2013 09:03:14] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 523
+[18-Feb-2013 09:05:52] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 521
+[18-Feb-2013 09:06:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 522
+[18-Feb-2013 09:10:20] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 523
+[18-Feb-2013 10:06:13] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 521
+[01-Mar-2013 12:42:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 566
+[01-Mar-2013 12:43:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/tbdmis/plmis_src/graph/graphtable.php on line 566
+[10-Apr-2013 04:09:30] PHP Parse error:  syntax error, unexpected $end in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphParameterForm.php on line 649
+[16-Apr-2013 04:55:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[18-Apr-2013 00:45:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[18-Apr-2013 00:46:20] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 524
+[18-Apr-2013 02:40:43] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[18-Apr-2013 02:41:42] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[18-Apr-2013 04:15:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[18-Apr-2013 04:17:47] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[18-Apr-2013 04:18:22] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[18-Apr-2013 04:18:58] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[18-Apr-2013 04:19:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[18-Apr-2013 04:20:52] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[19-Apr-2013 02:03:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[19-Apr-2013 02:04:11] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[08-May-2013 16:33:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[17-May-2013 01:01:09] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 01:01:34] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:14:46] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:16:09] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:17:40] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:18:28] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:21:01] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:23:17] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:23:58] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:24:51] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:27:16] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:28:51] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:30:36] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:31:08] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:31:38] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:34:02] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:34:50] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:36:19] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:36:52] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:38:05] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[17-May-2013 10:38:28] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[18-May-2013 06:35:44] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[19-May-2013 05:29:28] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[19-May-2013 05:30:11] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[19-May-2013 05:34:12] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[20-May-2013 01:00:29] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[20-May-2013 01:01:22] PHP Parse error:  syntax error, unexpected ';' in /home/lmispcgo/public_html/clmis/plmis_src/graph/fetchDistricts.php on line 71
+[31-May-2013 02:32:47] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[31-May-2013 02:33:47] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[21-Jun-2013 02:33:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[21-Jun-2013 02:34:06] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[21-Jun-2013 13:28:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[21-Jun-2013 13:29:34] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[22-Jun-2013 02:29:53] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[24-Jun-2013 03:20:33] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[30-Jun-2013 14:33:54] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[30-Jun-2013 14:34:58] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[30-Jun-2013 14:35:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[30-Jun-2013 14:36:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[30-Jun-2013 14:36:32] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[08-Jul-2013 15:09:00] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[09-Jul-2013 01:15:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[09-Jul-2013 01:16:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[09-Jul-2013 01:17:06] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[09-Jul-2013 01:17:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[11-Jul-2013 03:57:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 524
+[12-Jul-2013 04:54:38] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[13-Jul-2013 01:17:37] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[17-Jul-2013 01:57:00] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[17-Jul-2013 02:03:49] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[17-Jul-2013 02:08:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[17-Jul-2013 02:09:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[17-Jul-2013 02:44:21] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[17-Jul-2013 02:45:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[22-Jul-2013 06:08:16] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[23-Jul-2013 01:51:50] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[27-Jul-2013 10:56:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[27-Jul-2013 10:58:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[12-Aug-2013 22:46:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[13-Aug-2013 02:55:59] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[18-Aug-2013 00:40:53] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[23-Aug-2013 04:48:13] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[23-Aug-2013 04:49:23] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[23-Aug-2013 04:50:29] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[27-Aug-2013 01:54:58] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 524
+[09-Sep-2013 03:22:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[09-Sep-2013 19:03:34] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[09-Sep-2013 19:04:37] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[09-Sep-2013 23:29:20] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 568
+[09-Sep-2013 23:32:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[09-Sep-2013 23:33:21] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[10-Sep-2013 00:29:08] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[10-Sep-2013 00:30:19] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[10-Sep-2013 00:30:59] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[10-Sep-2013 00:31:57] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[10-Sep-2013 01:15:37] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:37:55] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:38:53] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:39:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 568
+[25-Sep-2013 03:40:12] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:41:03] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:42:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[25-Sep-2013 03:42:39] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[26-Sep-2013 02:05:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[27-Sep-2013 07:34:43] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[07-Oct-2013 06:31:50] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 744
+[07-Oct-2013 06:32:22] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 743
+[09-Oct-2013 02:50:16] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[09-Oct-2013 12:33:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[28-Oct-2013 04:52:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[01-Nov-2013 01:47:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[01-Nov-2013 01:51:17] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[05-Nov-2013 23:39:07] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[08-Nov-2013 00:27:29] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[08-Nov-2013 00:28:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[08-Nov-2013 00:29:07] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmispcgo/public_html/clmis/plmis_src/graph/graphtable.php on line 522
+[20-Jan-2014 11:20:01 UTC] PHP Fatal error:  Class 'Database' not found in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 36
+[04-Feb-2014 09:28:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 524
+[04-Feb-2014 09:29:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[06-Feb-2014 16:29:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[06-Feb-2014 16:32:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[06-Feb-2014 16:33:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[07-Feb-2014 06:14:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[07-Feb-2014 06:14:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[07-Feb-2014 06:15:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[12-Feb-2014 04:37:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[12-Feb-2014 06:29:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 521
+[27-Feb-2014 08:11:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 568
+[27-Feb-2014 08:11:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[27-Feb-2014 08:16:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 566
+[06-Mar-2014 08:24:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[10-Mar-2014 11:45:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[10-Mar-2014 11:46:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 567
+[18-Mar-2014 04:49:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lmisgovn/public_html/clmis/plmis_src/graph/graphtable.php on line 523
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(/home/lmispcgo/public_html/clmis/plmis_inc/common/Global.php): failed to open stream: No such file or directory in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 27
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(): Failed opening '/home/lmispcgo/public_html/clmis/plmis_inc/common/Global.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 27
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(/home/lmispcgo/public_html/clmis/plmis_inc/common/DateTime.php): failed to open stream: No such file or directory in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 28
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(): Failed opening '/home/lmispcgo/public_html/clmis/plmis_inc/common/DateTime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 28
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(/home/lmispcgo/public_html/clmis/plmis_inc/common/CnnDb.php): failed to open stream: No such file or directory in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 29
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(): Failed opening '/home/lmispcgo/public_html/clmis/plmis_inc/common/CnnDb.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 29
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(/home/lmispcgo/public_html/clmis/plmis_inc/common/FunctionLib.php): failed to open stream: No such file or directory in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 30
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(): Failed opening '/home/lmispcgo/public_html/clmis/plmis_inc/common/FunctionLib.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 30
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(/home/lmispcgo/public_html/clmis/plmis_inc/form/plmis_form_globals.php): failed to open stream: No such file or directory in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 31
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  include_once(): Failed opening '/home/lmispcgo/public_html/clmis/plmis_inc/form/plmis_form_globals.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lmisgovn/public_html/clmis/html/adminhtml.inc.php on line 31
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'lmisgovn'@'localhost' (using password: NO) in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 30
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 30
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 30
+[19-Mar-2014 09:36:04 UTC] PHP Warning:  Illegal string offset 'LogedUser' in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 35
+[19-Mar-2014 09:36:04 UTC] PHP Fatal error:  Class 'Database' not found in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 36
+[19-Mar-2014 09:37:47 UTC] PHP Fatal error:  Class 'Database' not found in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 36
+[19-Mar-2014 09:46:14 UTC] PHP Fatal error:  Class 'Database' not found in /home/lmisgovn/public_html/clmis/plmis_src/graph/templategraphreport.php on line 36

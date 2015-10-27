@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="1">
+		<cell>Condom</cell>
+<cell>6,009,119</cell><cell>10,023,837.3</cell><cell>225,579,009</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6BCEFF;"></div>]]></cell><cell>22.5</cell><cell>50,076</cell></row>	<row id="2">
+		<cell>POP</cell>
+<cell>14,394</cell><cell>19,602.7</cell><cell>431,083</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>22.0</cell><cell>960</cell></row>	<row id="3">
+		<cell>COC</cell>
+<cell>358,793</cell><cell>742,499.7</cell><cell>12,955,683</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>17.4</cell><cell>23,920</cell></row>	<row id="4">
+		<cell>ECP</cell>
+<cell>28</cell><cell>41.7</cell><cell>8,960</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>215.0</cell><cell>1</cell></row>	<row id="5">
+		<cell>Copper-T-380A</cell>
+<cell>62,661</cell><cell>78,029.0</cell><cell>1,902,716</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>24.4</cell><cell>288,241</cell></row>	<row id="6">
+		<cell>Multiload</cell>
+<cell>1,086</cell><cell>1,766.3</cell><cell>24,047</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#008000;"></div>]]></cell><cell>13.6</cell><cell>3,801</cell></row>	<row id="7">
+		<cell>Safe Load</cell>
+<cell>UNK</cell><cell>UNK</cell><cell>UNK</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#000000;"></div>]]></cell><cell>UNK</cell><cell>UNK</cell></row>	<row id="8">
+		<cell>1-Month Inj</cell>
+<cell>UNK</cell><cell>UNK</cell><cell>UNK</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#000000;"></div>]]></cell><cell>UNK</cell><cell>UNK</cell></row>	<row id="9">
+		<cell>2-Month Inj</cell>
+<cell>2,598</cell><cell>3,803.3</cell><cell>80,442</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>21.2</cell><cell>433</cell></row>	<row id="10">
+		<cell>3-Month Inj</cell>
+<cell>134,513</cell><cell>303,446.7</cell><cell>6,886,299</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#6bceff;"></div>]]></cell><cell>22.7</cell><cell>33,628</cell></row>	<row id="11">
+		<cell>Implanon</cell>
+<cell>373</cell><cell>406.3</cell><cell>5,111</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#008000;"></div>]]></cell><cell>12.6</cell><cell>933</cell></row>	<row id="12">
+		<cell>Jadelle</cell>
+<cell>65</cell><cell>70.7</cell><cell>110,090</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#000000;"></div>]]></cell><cell>1,557.8</cell><cell>247</cell></row>	<row id="13">
+		<cell>Femplant</cell>
+<cell>UNK</cell><cell>UNK</cell><cell>UNK</cell><cell><![CDATA[<div style="width:10px; height:12px; background-color:#000000;"></div>]]></cell><cell>UNK</cell><cell>UNK</cell></row></rows>

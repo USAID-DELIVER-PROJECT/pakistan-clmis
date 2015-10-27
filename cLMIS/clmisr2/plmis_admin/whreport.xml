@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="0">
+		<cell>Isoniazid(H)</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="1">
+		<cell>Rifampicin(R)</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>100</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>100</cell>
+	</row>
+	<row id="2">
+		<cell>RHZ</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>387074</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>387074</cell>
+	</row>
+	<row id="3">
+		<cell>Pyrazinamide(Z)</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="4">
+		<cell>Ethambutol(E)</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="5">
+		<cell>Streptomycin(S)</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="6">
+		<cell>HE</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="7">
+		<cell>RH</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="8">
+		<cell>RHE</cell>
+		<cell>Vehari Field Office</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="9">
+		<cell>Isoniazid(H)</cell>
+		<cell>Vehari</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="10">
+		<cell>Rifampicin(R)</cell>
+		<cell>Vehari</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="11">
+		<cell>RHZ</cell>
+		<cell>Vehari</cell>
+		<cell>392482</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>392482</cell>
+	</row>
+	<row id="12">
+		<cell>Pyrazinamide(Z)</cell>
+		<cell>Vehari</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="13">
+		<cell>Ethambutol(E)</cell>
+		<cell>Vehari</cell>
+		<cell>8380</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>8380</cell>
+	</row>
+	<row id="14">
+		<cell>Streptomycin(S)</cell>
+		<cell>Vehari</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="15">
+		<cell>HE</cell>
+		<cell>Vehari</cell>
+		<cell>3025</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>3025</cell>
+	</row>
+	<row id="16">
+		<cell>RH</cell>
+		<cell>Vehari</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="17">
+		<cell>RHE</cell>
+		<cell>Vehari</cell>
+		<cell>1542</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>1542</cell>
+	</row>
+</rows>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="0">
+		<cell>Contraceptive</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("1")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("1")^_self</cell>
+	</row>
+	<row id="1">
+		<cell>Services</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("2")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("2")^_self</cell>
+	</row>
+</rows>

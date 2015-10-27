@@ -1,0 +1,69 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+Title : Default CSS for Lightbox Gone Wild
+Author : Kevin Hale
+URL : http://particletree.com/features/lightbox-gone-wild/
+
+Created : January 13, 2006
+Modified : February 1, 2006
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+/* ----- CSS ----- */
+
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	margin:10px;
+	font-size:80%;
+	font-family:"Lucida Grande", Tahoma, sans-serif;
+}
+p{
+	margin:0 0 1em 0;
+}
+a{
+}
+a img{
+	border:none !important;
+}
+#container{
+	margin:0 auto;
+	width:500px;
+	padding:40px;
+	text-align:left;
+	background-color:#fff;
+}
+
+#lightbox h2{
+	margin:0 0 1em 0;
+}
+#lightbox h3{
+	color:#FF713F;
+}
+#lightbox.done p{
+	color:#333;
+}
+
+#form{
+	text-align:left;
+	margin:25px;
+}
+#form ul{
+	list-style:none;
+}
+#form li{
+	margin:0 0 1em 0;
+}
+#form textarea{
+	width:100%;
+	height:150px;
+}
+
+#definition{
+	margin:25px;
+}
+.highlight{
+	background-color:#FEFFAF;
+}

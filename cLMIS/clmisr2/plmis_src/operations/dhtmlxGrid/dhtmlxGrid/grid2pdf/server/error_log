@@ -1,0 +1,3 @@
+[13-May-2014 08:51:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/lmisgovn/public_html/clmis/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/grid2pdf/server/gridPdfGenerator.php on line 304
+[20-May-2014 05:22:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65552 bytes) in /home/lmisgovn/public_html/clmis/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/grid2pdf/server/tcpdf/tcpdf.php on line 7411
+[20-May-2014 05:41:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65552 bytes) in /home/lmisgovn/public_html/clmis/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/grid2pdf/server/tcpdf/tcpdf.php on line 7411

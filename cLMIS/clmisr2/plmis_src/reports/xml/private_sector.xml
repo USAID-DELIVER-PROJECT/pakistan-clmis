@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="1">
+		<cell>Condom</cell>
+		<cell>14,908,530</cell>
+		<cell>16,418,600</cell>
+		<cell>23,752,297</cell>
+		<cell>16,051,724</cell>
+		<cell>7,521,293</cell>
+		<cell>8,771,600</cell>
+		<cell>4,261,131</cell>
+		<cell>6,354,484</cell>
+		<cell>14,678,833</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="2">
+		<cell>POP</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>11,746</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="3">
+		<cell>COC</cell>
+		<cell>171,353</cell>
+		<cell>145,845</cell>
+		<cell>152,938</cell>
+		<cell>149,088</cell>
+		<cell>147,659</cell>
+		<cell>100,261</cell>
+		<cell>75,138</cell>
+		<cell>105,357</cell>
+		<cell>157,941</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="4">
+		<cell>ECP</cell>
+		<cell>339,806</cell>
+		<cell>305,586</cell>
+		<cell>321,800</cell>
+		<cell>316,567</cell>
+		<cell>215,486</cell>
+		<cell>120,237</cell>
+		<cell>85,033</cell>
+		<cell>139,504</cell>
+		<cell>135,397</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="5">
+		<cell>Copper-T-380A</cell>
+		<cell>18,615</cell>
+		<cell>21,684</cell>
+		<cell>21,282</cell>
+		<cell>22,241</cell>
+		<cell>22,309</cell>
+		<cell>29,533</cell>
+		<cell>21,653</cell>
+		<cell>24,120</cell>
+		<cell>28,144</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="6">
+		<cell>Multiload</cell>
+		<cell>66,828</cell>
+		<cell>58,043</cell>
+		<cell>48,039</cell>
+		<cell>62,052</cell>
+		<cell>43,890</cell>
+		<cell>22,477</cell>
+		<cell>14,001</cell>
+		<cell>13,478</cell>
+		<cell>22,920</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="7">
+		<cell>Safe Load</cell>
+		<cell>5,040</cell>
+		<cell>3,694</cell>
+		<cell>3,336</cell>
+		<cell>3,480</cell>
+		<cell>1,318</cell>
+		<cell>667</cell>
+		<cell>222</cell>
+		<cell>205</cell>
+		<cell>2,987</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="8">
+		<cell>1-Month Inj</cell>
+		<cell>24,574</cell>
+		<cell>22,618</cell>
+		<cell>17,960</cell>
+		<cell>20,628</cell>
+		<cell>18,145</cell>
+		<cell>5,755</cell>
+		<cell>4,777</cell>
+		<cell>11,185</cell>
+		<cell>21,827</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="9">
+		<cell>2-Month Inj</cell>
+		<cell>58,236</cell>
+		<cell>51,418</cell>
+		<cell>49,270</cell>
+		<cell>50,559</cell>
+		<cell>46,780</cell>
+		<cell>22,074</cell>
+		<cell>15,435</cell>
+		<cell>31,829</cell>
+		<cell>41,735</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="10">
+		<cell>3-Month Inj</cell>
+		<cell>85,305</cell>
+		<cell>68,326</cell>
+		<cell>66,942</cell>
+		<cell>63,628</cell>
+		<cell>55,021</cell>
+		<cell>45,748</cell>
+		<cell>35,944</cell>
+		<cell>41,060</cell>
+		<cell>66,423</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="11">
+		<cell>Implanon</cell>
+		<cell>942</cell>
+		<cell>1,233</cell>
+		<cell>740</cell>
+		<cell>2,722</cell>
+		<cell>649</cell>
+		<cell>736</cell>
+		<cell>421</cell>
+		<cell>789</cell>
+		<cell>1,041</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="12">
+		<cell>Jadelle</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>59</cell>
+		<cell>76</cell>
+		<cell>75</cell>
+		<cell>77</cell>
+		<cell>63</cell>
+		<cell>146</cell>
+		<cell>9,363</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="13">
+		<cell>Femplant</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>660</cell>
+		<cell>539</cell>
+		<cell>441</cell>
+		<cell>593</cell>
+		<cell>338</cell>
+		<cell>393</cell>
+		<cell>523</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+</rows>

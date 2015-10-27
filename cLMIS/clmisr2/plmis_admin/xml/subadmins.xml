@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="0">
+		<cell><![CDATA[Abbas Khan]]></cell>
+		<cell><![CDATA[]]></cell>
+		<cell><![CDATA[abbas@deliver-pk.org]]></cell>
+		<cell><![CDATA[Khyber Pakhtunkhwa,FATA]]></cell>
+		<cell><![CDATA[PWD,LHW,DOH]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("2721")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("2721")^_self</cell>
+	</row>
+	<row id="1">
+		<cell><![CDATA[Maj. Iftikhar]]></cell>
+		<cell><![CDATA[03009709701]]></cell>
+		<cell><![CDATA[iftikhar@deliver-pk.org]]></cell>
+		<cell><![CDATA[Punjab]]></cell>
+		<cell><![CDATA[PWD,LHW,DOH]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("2719")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("2719")^_self</cell>
+	</row>
+	<row id="2">
+		<cell><![CDATA[Zeeshan]]></cell>
+		<cell><![CDATA[]]></cell>
+		<cell><![CDATA[zeeshan@deliver-pk.org]]></cell>
+		<cell><![CDATA[AJK,FATA,Gilgit Baltistan,Islamabad]]></cell>
+		<cell><![CDATA[PWD,LHW,DOH]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("2718")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("2718")^_self</cell>
+	</row>
+	<row id="3">
+		<cell><![CDATA[Sindh Admin]]></cell>
+		<cell><![CDATA[]]></cell>
+		<cell><![CDATA[wasif@deliver-pk.org]]></cell>
+		<cell><![CDATA[Sindh]]></cell>
+		<cell><![CDATA[PWD]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("2790")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("2790")^_self</cell>
+	</row>
+	<row id="4">
+		<cell><![CDATA[Abdul]]></cell>
+		<cell><![CDATA[03001234567]]></cell>
+		<cell><![CDATA[qadir@deliver-pk.org]]></cell>
+		<cell><![CDATA[Punjab]]></cell>
+		<cell><![CDATA[PWD,GS]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("8900")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("8900")^_self</cell>
+	</row>
+	<row id="5">
+		<cell><![CDATA[Abdul]]></cell>
+		<cell><![CDATA[03001234567]]></cell>
+		<cell><![CDATA[jsi.aqadir@gmail.com]]></cell>
+		<cell><![CDATA[Punjab]]></cell>
+		<cell><![CDATA[LHW]]></cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("8901")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("8901")^_self</cell>
+	</row>
+</rows>

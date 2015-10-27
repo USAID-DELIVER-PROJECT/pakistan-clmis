@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="0">
+		<cell>Contraceptive</cell>
+		<cell>Condom,POP,ECP,Multiload,Copper-T-380A,2-Month Inj,3-Month Inj,Implanon,COC,1-Month Inj,Safe Load</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("1")^_self</cell>
+	</row>
+</rows>

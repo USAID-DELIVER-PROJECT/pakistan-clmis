@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="1">
+		<cell>Condom</cell>
+		<cell>235,394</cell>
+		<cell>62,916</cell>
+		<cell>14,116</cell>
+		<cell>0</cell>
+		<cell>312,426</cell>
+		<cell>59</cell>
+		<cell>212,978</cell>
+		<cell>1,527</cell>
+		<cell>0</cell>
+		<cell>214,564</cell>
+		<cell>526,990</cell>
+	</row>
+	<row id="2">
+		<cell>POP</cell>
+		<cell>10,758</cell>
+		<cell>0</cell>
+		<cell>455</cell>
+		<cell>0</cell>
+		<cell>11,213</cell>
+		<cell>1,815</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>1,815</cell>
+		<cell>13,028</cell>
+	</row>
+	<row id="3">
+		<cell>COC</cell>
+		<cell>89,590</cell>
+		<cell>45,769</cell>
+		<cell>18,455</cell>
+		<cell>0</cell>
+		<cell>153,814</cell>
+		<cell>0</cell>
+		<cell>26,513</cell>
+		<cell>1,962</cell>
+		<cell>0</cell>
+		<cell>28,475</cell>
+		<cell>182,289</cell>
+	</row>
+	<row id="4">
+		<cell>ECP</cell>
+		<cell>532</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>532</cell>
+		<cell>0</cell>
+		<cell>23,465</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>23,465</cell>
+		<cell>23,997</cell>
+	</row>
+	<row id="5">
+		<cell>Copper-T-380A</cell>
+		<cell>1,171,391</cell>
+		<cell>0</cell>
+		<cell>87,980</cell>
+		<cell>0</cell>
+		<cell>1,259,370</cell>
+		<cell>95,487</cell>
+		<cell>0</cell>
+		<cell>110,142</cell>
+		<cell>0</cell>
+		<cell>205,629</cell>
+		<cell>1,464,999</cell>
+	</row>
+	<row id="6">
+		<cell>Multiload</cell>
+		<cell>68,338</cell>
+		<cell>0</cell>
+		<cell>543</cell>
+		<cell>0</cell>
+		<cell>68,880</cell>
+		<cell>17,241</cell>
+		<cell>1,017,090</cell>
+		<cell>71,656</cell>
+		<cell>0</cell>
+		<cell>1,105,986</cell>
+		<cell>1,174,866</cell>
+	</row>
+	<row id="7">
+		<cell>Safe Load</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>14,249</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>14,249</cell>
+		<cell>14,249</cell>
+	</row>
+	<row id="8">
+		<cell>1-Month Inj</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>3,800</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>3,800</cell>
+		<cell>3,800</cell>
+	</row>
+	<row id="9">
+		<cell>2-Month Inj</cell>
+		<cell>5,271</cell>
+		<cell>0</cell>
+		<cell>292</cell>
+		<cell>0</cell>
+		<cell>5,563</cell>
+		<cell>7,586</cell>
+		<cell>25,080</cell>
+		<cell>840</cell>
+		<cell>0</cell>
+		<cell>33,506</cell>
+		<cell>39,068</cell>
+	</row>
+	<row id="10">
+		<cell>3-Month Inj</cell>
+		<cell>141,018</cell>
+		<cell>64,634</cell>
+		<cell>23,139</cell>
+		<cell>0</cell>
+		<cell>228,790</cell>
+		<cell>16,901</cell>
+		<cell>26,898</cell>
+		<cell>3,792</cell>
+		<cell>0</cell>
+		<cell>47,590</cell>
+		<cell>276,380</cell>
+	</row>
+	<row id="11">
+		<cell>Implant</cell>
+		<cell>1,586</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>1,586</cell>
+		<cell>0</cell>
+		<cell>472</cell>
+		<cell>3,844</cell>
+		<cell>0</cell>
+		<cell>4,316</cell>
+		<cell>5,902</cell>
+	</row>
+</rows>

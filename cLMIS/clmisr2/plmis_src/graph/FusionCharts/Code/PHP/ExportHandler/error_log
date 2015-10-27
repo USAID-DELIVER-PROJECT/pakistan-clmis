@@ -1,0 +1,1 @@
+[28-May-2014 05:32:49 UTC] PHP Warning:  Illegal string offset 'DOMId' in /home/lmisgovn/public_html/clmis/plmis_src/graph/FusionCharts/Code/PHP/ExportHandler/FCExporter.php on line 418

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="1">
+		<cell>Condom</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-001')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-001')>15</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-001')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-001')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-001')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-001')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-001')>12</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-001')>9</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-001')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-001')>8</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="2">
+		<cell>POP</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-002')>12</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-002')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-002')>5</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-002')>5</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-002')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-002')>6</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-002')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-002')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-002')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-002')>3</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="3">
+		<cell>COC</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-009')>6</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-009')>13</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-009')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-009')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-009')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-009')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-009')>2</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-009')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-009')>6</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-009')>5</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="4">
+		<cell>ECP</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-003')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-003')>16</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-003')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-003')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-003')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-003')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-003')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-003')>5</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-003')>6</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-003')>2</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="5">
+		<cell>Copper-T-380A</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-005')>9</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-005')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-005')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-005')>4</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-005')>2</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-005')>2</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-005')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-005')>12</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-005')>4</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-005')>8</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="6">
+		<cell>Multiload</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-004')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-004')>13</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-004')>13</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-004')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-004')>6</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-004')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-004')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-004')>4</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-004')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-004')>5</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="7">
+		<cell>2-Month Inj</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-006')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-006')>15</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-006')>13</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-006')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-006')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-006')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-006')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-006')>8</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-006')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-006')>2</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="8">
+		<cell>3-Month Inj</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-007')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-007')>11</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-007')>4</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-007')>3</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-007')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-007')>2</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-007')>7</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-007')>10</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-007')>4</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-007')>7</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+	<row id="9">
+		<cell>Implant</cell>
+		<cell>135</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-1-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-2-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-3-01&Prod=IT-008')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-4-01&Prod=IT-008')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-5-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-6-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-7-01&Prod=IT-008')>1</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-8-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-9-01&Prod=IT-008')>0</a>]]>^_self</cell>
+		<cell><![CDATA[<a href=javascript:functionCall('stk=1&prov=all&MOS=1&Dt=2013-10-01&Prod=IT-008')>1</a>]]>^_self</cell>
+		<cell>UNK</cell>
+		<cell>UNK</cell>
+	</row>
+</rows>

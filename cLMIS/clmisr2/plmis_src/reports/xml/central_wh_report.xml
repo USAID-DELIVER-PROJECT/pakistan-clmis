@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="1">
+		<cell>Condom</cell>
+		<cell>23,812,276</cell>
+		<cell>41,170,153</cell>
+		<cell>22,803,994</cell>
+		<cell>17,518,273</cell>
+		<cell>35,187,352</cell>
+		<cell>7,009,869</cell>
+		<cell>7,231,624</cell>
+		<cell>16,757,786</cell>
+		<cell>23,071,754</cell>
+		<cell>3,996,300</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="2">
+		<cell>POP</cell>
+		<cell>27,360</cell>
+		<cell>86,400</cell>
+		<cell>21,600</cell>
+		<cell>41,040</cell>
+		<cell>58,080</cell>
+		<cell>16,560</cell>
+		<cell>7,200</cell>
+		<cell>43,920</cell>
+		<cell>41,040</cell>
+		<cell>21,600</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="3">
+		<cell>COC</cell>
+		<cell>1,113,866</cell>
+		<cell>2,267,496</cell>
+		<cell>1,104,786</cell>
+		<cell>1,082,850</cell>
+		<cell>2,417,427</cell>
+		<cell>287,490</cell>
+		<cell>332,370</cell>
+		<cell>966,870</cell>
+		<cell>652,650</cell>
+		<cell>149,760</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="4">
+		<cell>ECP</cell>
+		<cell>192,400</cell>
+		<cell>160,840</cell>
+		<cell>140,340</cell>
+		<cell>147,980</cell>
+		<cell>230,940</cell>
+		<cell>85,040</cell>
+		<cell>92,150</cell>
+		<cell>120,640</cell>
+		<cell>179,990</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="5">
+		<cell>Copper-T-380A</cell>
+		<cell>56,734</cell>
+		<cell>284,794</cell>
+		<cell>64,566</cell>
+		<cell>146,350</cell>
+		<cell>171,583</cell>
+		<cell>36,000</cell>
+		<cell>69,450</cell>
+		<cell>174,850</cell>
+		<cell>146,550</cell>
+		<cell>29,400</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="6">
+		<cell>Multiload</cell>
+		<cell>17,700</cell>
+		<cell>45,510</cell>
+		<cell>44,000</cell>
+		<cell>22,504</cell>
+		<cell>54,390</cell>
+		<cell>0</cell>
+		<cell>20,110</cell>
+		<cell>19,312</cell>
+		<cell>39,746</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="7">
+		<cell>Safe Load</cell>
+		<cell>1,080</cell>
+		<cell>2,242</cell>
+		<cell>2,390</cell>
+		<cell>2,720</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="8">
+		<cell>1-Month Inj</cell>
+		<cell>12,100</cell>
+		<cell>11,700</cell>
+		<cell>14,900</cell>
+		<cell>20,300</cell>
+		<cell>29,400</cell>
+		<cell>22,100</cell>
+		<cell>1,300</cell>
+		<cell>600</cell>
+		<cell>19,900</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="9">
+		<cell>2-Month Inj</cell>
+		<cell>18,000</cell>
+		<cell>25,440</cell>
+		<cell>18,720</cell>
+		<cell>35,880</cell>
+		<cell>50,940</cell>
+		<cell>26,120</cell>
+		<cell>20,880</cell>
+		<cell>18,120</cell>
+		<cell>36,720</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="10">
+		<cell>3-Month Inj</cell>
+		<cell>535,120</cell>
+		<cell>953,755</cell>
+		<cell>362,985</cell>
+		<cell>320,320</cell>
+		<cell>1,348,340</cell>
+		<cell>90,660</cell>
+		<cell>62,480</cell>
+		<cell>442,780</cell>
+		<cell>370,900</cell>
+		<cell>337,600</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="11">
+		<cell>Implanon</cell>
+		<cell>8,845</cell>
+		<cell>18,498</cell>
+		<cell>3,979</cell>
+		<cell>1,920</cell>
+		<cell>6,912</cell>
+		<cell>2,048</cell>
+		<cell>448</cell>
+		<cell>1,024</cell>
+		<cell>3,904</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="12">
+		<cell>Jadelle</cell>
+		<cell>0</cell>
+		<cell>975</cell>
+		<cell>5,118</cell>
+		<cell>344</cell>
+		<cell>3,145</cell>
+		<cell>375</cell>
+		<cell>4,100</cell>
+		<cell>0</cell>
+		<cell>3,300</cell>
+		<cell>16,605</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+	<row id="13">
+		<cell>Femplant</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>3,400</cell>
+		<cell>603</cell>
+		<cell>250</cell>
+		<cell>0</cell>
+		<cell>1,233</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+		<cell>0</cell>
+	</row>
+</rows>

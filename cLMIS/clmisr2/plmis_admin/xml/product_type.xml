@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<row id="0">
+		<cell>IUD</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("3")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("3")^_self</cell>
+	</row>
+	<row id="1">
+		<cell>Pill</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("4")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("4")^_self</cell>
+	</row>
+	<row id="2">
+		<cell>Vials</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("5")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("5")^_self</cell>
+	</row>
+	<row id="3">
+		<cell>PCs</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("6")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("6")^_self</cell>
+	</row>
+	<row id="4">
+		<cell>Cycle</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/edit.gif^javascript:editFunction("7")^_self</cell>
+		<cell type="img">../plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^http://localhost:80/clmisr2/plmis_src/operations/dhtmlxGrid/dhtmlxGrid/codebase/imgs/Delete.gif^javascript:delFunction("7")^_self</cell>
+	</row>
+</rows>
